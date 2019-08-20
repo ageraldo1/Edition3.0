@@ -1,7 +1,6 @@
-# Edition3.0
 <h1>Welcome to Mobile App Development for iOS and Android, Edition 3.0</h1>
 
-This repository contains source code for the third edition of the book Mobile App Development for iOS and Android by Jakob Iversen and Michael Eierman. Comments and questions can be directed to the authors at jhiversen@gmail.com or michael.eierman@gmail.com.
+This repository contains source code for the third edition of the book Mobile App Development for iOS and Android by Jakob Iversen and Michael Eierman. Comments and questions can be directed to the authors at jhiversen@gmail.com or michael.eierman@gmail.com. More information about the book is available from <a href="https://prospectpressvt.com/">Prospect Press</a>.
 
 <h2>Brief Table of Contents</h2>
 
