@@ -35,6 +35,4 @@ Chapter 16: Publishing Apps
 
 <b>Appendices</b>
 
-Appendix A: Fixing Code Issues using Android Studio<br>
-Appendix B: ConstraintLayouts in Android<br>
-Appendix C: Introduction to Swift
+Appendix A: Introduction to Swift
